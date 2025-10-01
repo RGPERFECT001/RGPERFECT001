@@ -8,12 +8,12 @@
 
 ## ⚡ Who Am I?
 
-[cite_start]An ambitious **BTech in Computer Science, Artificial Intelligence** undergrad at UPES, relentlessly focused on deploying high-impact **AI/ML solutions**[cite: 5, 4].
+An ambitious **BTech in Computer Science, Artificial Intelligence** undergrad at UPES, relentlessly focused on deploying high-impact **AI/ML solutions**.
 
 - 🧠 Diving deep into **Neural Networks**, **MLOps**, and **Large Language Models (LLMs)**.
-- [cite_start]💻 **Core Tech Stack**: **Python**, Java, C++, JavaScript, TensorFlow, PyTorch, Docker, Git[cite: 67, 69].
-- [cite_start]🚀 Currently leading the development of two core AI products: an intelligent document processor and an AI paralegal[cite: 32, 33].
-- [cite_start]💡 **Quantifiable Impact**: Enhanced classification results by **5%** using the Differential Evolution Algorithm on CNNs [cite: 15][cite_start], and boosted prediction accuracy by **3%** on deployed ML models at Airtel Digital[cite: 20].
+- 💻 **Core Tech Stack**: **Python**, Java, C++, JavaScript, TensorFlow, PyTorch, Docker, Git.
+- 🚀 Currently leading the development of two core AI products: an intelligent document processor and an AI paralegal.
+- 💡 **Quantifiable Impact**: Enhanced classification results by **5%** using the Differential Evolution Algorithm on CNNs, and boosted prediction accuracy by **3%** on deployed ML models at Airtel Digital.
 
 ---
 
@@ -23,10 +23,10 @@ These are the projects that truly push the boundaries of AI.
 
 | Project Name | Description | Impact & Key Metrics | Stack |
 |:---|:---|:---|:---|
-| **Multi-Tenant AI WhatsApp Chatbot** | An innovative, scalable conversational AI for customer support. | [cite_start]Handled **1,000+ concurrent messages** with **sub-200 ms** response time and **95% intent accuracy**[cite: 47, 48]. | FastAPI, ChatGPT API, Webhooks |
-| **AI-Powered Answer Script Evaluator** | Automated grading system for student answer scripts (grades 2-12). | [cite_start]**Reduced manual grading time by 60%** and improved inter-rater reliability by **25%**[cite: 35]. | Python, OCR Libraries, Pandas |
-| **Deep Fake Detection API** | A real-time deepfake analysis service. | [cite_start]Achieved **95% accuracy** on the Celeb-DF benchmark and an AUC score of **0.92**[cite: 64, 65]. | Python, Neural Networks, TensorFlow |
-| **Emotion Detection using YOLOv11** | Pioneered the application of YOLOv11 for real-time facial emotion analysis. | [cite_start]Increased core face detection accuracy by **6%** over baseline models on the AffectNet dataset[cite: 26, 27]. | YOLOv11, AffectNet |
+| **Multi-Tenant AI WhatsApp Chatbot** | An innovative, scalable conversational AI for customer support. | Handled **1,000+ concurrent messages** with **sub-200 ms** response time and **95% intent accuracy**. | FastAPI, ChatGPT API, Webhooks |
+| **AI-Powered Answer Script Evaluator** | Automated grading system for student answer scripts (grades 2-12). | **Reduced manual grading time by 60%** and improved inter-rater reliability by **25%**. | Python, OCR Libraries, Pandas |
+| **Deep Fake Detection API** | A real-time deepfake analysis service. | Achieved **95% accuracy** on the Celeb-DF benchmark and an AUC score of **0.92**. | Python, Neural Networks, TensorFlow |
+| **Emotion Detection using YOLOv11** | Pioneered the application of YOLOv11 for real-time facial emotion analysis. | Increased core face detection accuracy by **6%** over baseline models on the AffectNet dataset. | YOLOv11, AffectNet |
 
 ---
 
@@ -42,9 +42,9 @@ These are the projects that truly push the boundaries of AI.
 
 ### 🏆 Certifications
 
-- [cite_start]**Unsupervised Learning, Recommenders, Reinforcement Learning** (DeepLearning.AI) [cite: 72]
-- [cite_start]**Advanced Learning Algorithms** (DeepLearning.AI) [cite: 73]
-- [cite_start]**Python Certification** (HackerRank) [cite: 74]
+- **Unsupervised Learning, Recommenders, Reinforcement Learning** (DeepLearning.AI)
+- **Advanced Learning Algorithms** (DeepLearning.AI)
+- **Python Certification** (HackerRank)
 
 ---
 
