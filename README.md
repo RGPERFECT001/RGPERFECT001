@@ -53,7 +53,7 @@ These are the projects that truly push the boundaries of AI.
 Get in touch for collaborations, projects, or just to talk about the latest in AI!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rhythm-gupta" target="_blank">
+  <a href="https://www.linkedin.com/in/rhythm-gupta-489581256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-rhythm--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/rgperfect001" target="_blank">
